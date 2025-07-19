@@ -1,0 +1,32 @@
+
+body{
+  background-color: #15011A;
+}
+
+h1{
+  font-family: Nabla;
+  text-align: center;
+}
+h2{
+  font-family: Caveat;
+  color:#F2B3EE;
+}
+p{
+  font-family: VT323;
+  color: #F7EDB8;
+}
+li{
+  font-family: VT323;
+  color: #F7EDB8;
+}
+aside{
+  text-align: right;
+}
+article{
+  border-style: outset;
+  border-color: #D9415D;
+  font-size: 1.5em;
+
+}
+
+/* beige = #F7EDB8 pink light = #F2B3EE dark purple = #15011A pink = #D9415D /*
